@@ -1,10 +1,15 @@
-# 📖 Evolution of NLP Approaches
+## NLP Projects
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ad789a4-62f9-431a-af8f-7731331a3b13" />
+
+
+## 📖 Evolution of NLP Approaches
 
 ![alt text](image.png)
 
 ---
 
-## 1️⃣ Classical Machine Learning (Feature Engineering Era)
+### 1️⃣ Classical Machine Learning (Feature Engineering Era)
 
 **Goal**: Represent text numerically and apply ML models.  
 
@@ -18,7 +23,7 @@
 
 ---
 
-## 2️⃣ Deep Learning (Sequential Models Era)
+### 2️⃣ Deep Learning (Sequential Models Era)
 
 Introduced **neural networks for sequences** to capture context.  
 
@@ -31,21 +36,21 @@ Introduced **neural networks for sequences** to capture context.
 
 ---
 
-## 3️⃣ Seq2Seq Models (Encoder–Decoder Era)
+### 3️⃣ Seq2Seq Models (Encoder–Decoder Era)
 
-### 🔹 Vanilla Encoder–Decoder (Seq2Seq)  
+#### 🔹 Vanilla Encoder–Decoder (Seq2Seq)  
 - Encoder compresses input into a single **context vector**.  
 - Decoder generates output step by step.  
 - 🚨 **Issue**: Bottleneck → long sentences lose information.  
 
-### 🔹 Seq2Seq with Attention  
+#### 🔹 Seq2Seq with Attention  
 - Decoder attends to **all encoder hidden states** instead of just context vector.  
 - Dynamically computes a **context vector per step**.  
 - ✅ Huge improvement in **translation, summarization**.  
 
 ---
 
-## 4️⃣ Transformers (Attention-only Era)
+### 4️⃣ Transformers (Attention-only Era)
 
 - Introduced in **“Attention Is All You Need” (2017)**.  
 - **Key Idea**: Drop recurrence → use only **self-attention**.  
@@ -64,5 +69,5 @@ Introduced **neural networks for sequences** to capture context.
 
 ---
 
-## ✅ Final Evolution Path
+### ✅ Final Evolution Path
 **ML features → RNNs → Seq2Seq → Attention-enhanced Seq2Seq → Transformers**
