@@ -1,7 +1,6 @@
 ## NLP Projects
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8ad789a4-62f9-431a-af8f-7731331a3b13" />
-
+<img width="1280" height="720" alt="Default (3)" src="https://github.com/user-attachments/assets/9b447c82-2a6a-4382-807a-a18e179bc958" />
 
 ## 📖 Evolution of NLP Approaches
 
